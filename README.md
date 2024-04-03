@@ -1,6 +1,6 @@
-# NOSTRIGA 2024 - Nostr.World Unconference 3rd Edition
+# NOSTRIGA - Nostr.World Unconference, 3rd Edition
 
-Time: August 22-23
+Time: August 22-23, 2024
 Location: Riga, Latvia
 
 https://nostr.world
